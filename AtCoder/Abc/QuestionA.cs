@@ -9,7 +9,7 @@ namespace AtCoder.Abc
     //https://atcoder.jp/contests/abc141/tasks/abc141_a
     public class QuestionA
     {
-        public static void Main(string[] args)
+        public static void Exec(string[] args)
         {
             var sw = new System.IO.StreamWriter(Console.OpenStandardOutput()) { AutoFlush = false };
             Console.SetOut(sw);

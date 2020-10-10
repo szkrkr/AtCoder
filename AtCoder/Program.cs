@@ -22,7 +22,7 @@ namespace AtCoder
         private static void Exec(string[] args)
         {
             QuestionA
-                .Main(args);
+                .Exec(args);
         }
 
         public class Debug
